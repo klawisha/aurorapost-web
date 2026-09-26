@@ -1,0 +1,2 @@
+# IMPORTANT: replace this line with the exact personalized snippet from AdMob.
+google.com, pub-REPLACE_WITH_YOUR_PUBLISHER_ID, DIRECT, f08c47fec0942fa0
